@@ -5,8 +5,13 @@ The framework follows the Page Object Model (POM) with clear separation of conce
 ⚙️ Tools & Tech Stack
 
 Java 16
+
 Selenium WebDriver
+
 TestNG
+
 Maven for dependency management
+
 Page Object Model (POM) with Page Events
+
 Retry logic and suite listeners for stability and reporting
